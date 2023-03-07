@@ -262,7 +262,7 @@ include 'db.php';
                                 <div class="col-md-12">
                                     <div class="form-group">
                                         <div class="form-line">
-                                        <input type="text" class="form-control" name="image" placeholder="Image">
+                                        <input type="file" class="form-control" name="image" placeholder="Image">
                                         <!-- <input class="form-control form-control-lg" name="image" id="formFileLg" type="file">                                        </div> -->
                                     </div>
                                 </div>
