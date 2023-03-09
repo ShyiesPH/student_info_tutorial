@@ -260,6 +260,9 @@ include 'db.php';
                                     </div>
                                 </div>
                                 <div class="col-md-12">
+                                    <p>
+                                        <b>Upload File</b>
+                                    </p>
                                     <div class="form-group">
                                         <div class="form-line">
                                         <input type="file" class="form-control" name="image" placeholder="Image">
